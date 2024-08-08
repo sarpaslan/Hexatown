@@ -1,5 +1,5 @@
 Source code of the Hexatown game.
-* You can play it here on browser.
+* You can play on browser.
 - https://ilasm.itch.io/hexatown
 
 
