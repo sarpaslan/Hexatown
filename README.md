@@ -7,6 +7,6 @@ Source code of the Hexatown game.
 ![HFpnoa (1)](https://github.com/user-attachments/assets/0b302b63-b4d8-4730-810d-d2eff909009d)
 
 
-- I worked on this project for total of  1.5 month. Total of 10.296 lines of code.
+- I worked on this project for total of  1.5 month. 
 - Because of paid assets i can't share all of the project.
 
