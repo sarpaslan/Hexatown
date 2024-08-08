@@ -9,4 +9,5 @@ Source code of the Hexatown game.
 
 - I worked on this project for total of  1.5 month. 
 - Because of paid assets i can't make the original repo public. But this repo contains all of the code for the game.
+- I haven't cleaned or refactored the code yet.
 
