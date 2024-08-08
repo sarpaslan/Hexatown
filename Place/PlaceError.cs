@@ -1,0 +1,10 @@
+
+public enum PlaceError
+{
+    NONE,
+    NOT_ENOUGH_WORKER,
+    NOT_ENOUGH_RESOURCES,
+    NOT_ENOUGH_TAX,
+    SELECTION_NEEDED,
+    CANT_WORK_ON_THIS_SEASON
+}
